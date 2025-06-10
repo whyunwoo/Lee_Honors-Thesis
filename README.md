@@ -1,3 +1,5 @@
-# perceptual-affordance-with Original Stimuli
+**Honors Thesis**: Culture and Environment: “Perceptual Affordances in Japanese farming regions”
 
-- This experiment has same structure as the study 1A and 1B but we replaced the stimuli with the original stimuli from the original paper.
+**Advisors**: Nicholas P. Camp & Shinobu Kitayama
+
+**Overview**: Psychological responses not only vary individually, but also those variations are shown in cultural contexts and environments. Past research on the socio-ecology field has found the influence of built-in environments on individuals. There was one theory proposed on the intra-national cultural difference in East Asian countries. The proposal examined the influence of two different built-in farming regions in China. This work captured that people from the rice-farming areas are more likely to be collectivistic and interdependent. In contrast, those from the wheat-farming areas are more likely to be individualistic and independent. The current work replicates the methods used in Miyamoto, Nisbett, & Masuda (2006) and Camp et al. (in prep) in order to see the effect of those two farming regions on individuals, especially on their cognitions. We used a combination of Application Programming Interfaces (APIs) and Google StreetView imagery to investigate the cultural differences in perceptual affordance at the intra-national level in other East Asian countries.
